@@ -1,2 +1,4 @@
-package com.example.cmput301w22t27;public class star {
+package com.example.cmput301w22t27;
+
+public class star extends Shape{
 }
